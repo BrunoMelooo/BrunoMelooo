@@ -4,7 +4,7 @@ Hi 👋 My name is Bruno Melo Guimaraes
 Programor e Desenvolvedor
 -------------------------
 
-Faço faculdade de Ciência da Computação na FUMEC, em BH, e estou no 3º período. Já tenho conhecimentos em Banco de Dados, Estrutura de Dados e tecnologias como Java, HTML, CSS e C. Estou à procura de um estágio para evoluir e dar um passo a mais na área de TI.
+Faço faculdade de Ciência da Computação na FUMEC, em BH, e estou no 4º período. Já tenho conhecimentos em Banco de Dados, Estrutura de Dados e tecnologias como Java, HTML, CSS,JAVA SCRIPT,ANGULAR,TYPE SCRIPT e C. Estou à procura de um estágio para evoluir e dar um passo a mais na área de TI.
 
 * 🌍  Resido em Belo Horizonte
 * ✉️  Contate-me em [brunomelo2006@outlook.com](mailto:brunomelo2006@outlook.com)
