@@ -8,7 +8,6 @@ Faço faculdade de Ciência da Computação na FUMEC, em BH, e estou no 4º per�
 
 * 🌍  Resido em Belo Horizonte
 * ✉️  Contate-me em [brunomelo2006@outlook.com](mailto:brunomelo2006@outlook.com)
-* 🧠  Eu estou aprendendo Linguagem C , Estrutura de dados , Orientado ao Objeto , Banco de dados
 * 👥  Estou a procura de Oportunidades De Estágio
 
 <p align="left">
